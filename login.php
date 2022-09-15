@@ -10,7 +10,7 @@ $ckpass = "1234";
 
 if ($usuario == $ckuser && $contrasenia == $ckpass) {
 // print "entrasete pero ";
-header("location:https://www.php.net/manual/es/language.operators.php");
+header("location:https://plataforma.potrerodigital.org/panel/alumno");
 }
 
 else {
